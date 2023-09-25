@@ -1,0 +1,3 @@
+[submodule "Plugins/QrReader"]
+	path = Plugins/QrReader
+	url = git@github.com:israelidanny/QrReader.git
